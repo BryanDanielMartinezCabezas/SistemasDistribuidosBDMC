@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Segundo Parcial\\OficinaTramites\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B37D9281-6585-4A53-A948-31184DF7429A}|OficinaTramites\\OficinaTramites.csproj|d:\\segundo parcial\\oficinatramites\\oficinatramites\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37D9281-6585-4A53-A948-31184DF7429A}|OficinaTramites\\OficinaTramites.csproj|solutionrelative:oficinatramites\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37D9281-6585-4A53-A948-31184DF7429A}|OficinaTramites\\OficinaTramites.csproj|D:\\Segundo Parcial\\OficinaTramites\\oficinatramites\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B37D9281-6585-4A53-A948-31184DF7429A}|OficinaTramites\\OficinaTramites.csproj|solutionrelative:oficinatramites\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37D9281-6585-4A53-A948-31184DF7429A}|OficinaTramites\\OficinaTramites.csproj|d:\\segundo parcial\\oficinatramites\\oficinatramites\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37D9281-6585-4A53-A948-31184DF7429A}|OficinaTramites\\OficinaTramites.csproj|solutionrelative:oficinatramites\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Segundo Parcial\\OficinaTramites\\OficinaTramites\\Form1.cs",
+              "RelativeDocumentMoniker": "OficinaTramites\\Form1.cs",
+              "ToolTip": "D:\\Segundo Parcial\\OficinaTramites\\OficinaTramites\\Form1.cs",
+              "RelativeToolTip": "OficinaTramites\\Form1.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAowAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T00:06:27.643Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Segundo Parcial\\OficinaTramites\\OficinaTramites\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "OficinaTramites\\Form1.Designer.cs",
+              "ToolTip": "D:\\Segundo Parcial\\OficinaTramites\\OficinaTramites\\Form1.Designer.cs",
+              "RelativeToolTip": "OficinaTramites\\Form1.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T00:21:33.602Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Segundo Parcial\\OficinaTramites\\OficinaTramites\\Form1.cs",
+              "RelativeDocumentMoniker": "OficinaTramites\\Form1.cs",
+              "ToolTip": "D:\\Segundo Parcial\\OficinaTramites\\OficinaTramites\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "OficinaTramites\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T00:01:39.383Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
